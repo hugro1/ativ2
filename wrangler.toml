@@ -1,0 +1,8 @@
+name = "ativ2"
+compatibility_date = "2026-10-14"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "ativ2-db"
+database_id = "71f67ca4ac1e23bbabb074e40992792c"
+migrations_dir = "migrations"
